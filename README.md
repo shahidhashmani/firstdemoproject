@@ -12,3 +12,9 @@ This is my first demo project
 
 *This text is italicized*	
 _This text is italicized_
+
+~~This was mistaken text~~	
+
+**This _text is extremely_ important**	
+
+***All this text is important***	

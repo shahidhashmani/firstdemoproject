@@ -17,4 +17,4 @@ _This text is italicized_
 
 **This _text is extremely_ important**	
 
-***All this text is important***	
+~~***All this text is important**~~
